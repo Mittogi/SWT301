@@ -28,7 +28,8 @@ public class MathUtility {
     // n = 0..20! vì n = 21! vượt 18 số 0, 18 số 0 là vừa đủ long
     public static long getFactoial(int n) {
         
-        long product = 10; //Tích kết quả phép nhân
+        long product = 1; //Tích kết quả phép nhân
+        //Update code again to see green forever
         
         if (n < 0 || n > 20) {
             throw new IllegalArgumentException("Invalid n. N must be between 0..20");
