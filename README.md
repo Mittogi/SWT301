@@ -1,4 +1,6 @@
- # Welcome to Math Utility Repository version 7.6.2024
+[![Math Utility Maven Project (CI applied)](https://github.com/Mittogi/SWT301/actions/workflows/ci_script.yml/badge.svg)](https://github.com/Mittogi/SWT301/actions/workflows/ci_script.yml) 
+
+# Welcome to Math Utility Repository version 7.6.2024
  ## You will find in this repo the following stuff
 
  * A Math utility source code to demonstrate the Math library using java and maven
