@@ -7,6 +7,7 @@
  * A Unit Test test srcipt using JUnit Testing Framework to ensure the quality of source code
  * The test script to demonstrate the TDD, DDT techniques
  * The CI (Contiunous Intergration) script to apply CI process
+ * The demostration of using recursion
  * ...
 
  ### Screenshots
