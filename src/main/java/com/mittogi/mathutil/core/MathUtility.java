@@ -35,14 +35,14 @@ public class MathUtility {
             throw new IllegalArgumentException("Invalid n. N must be between 0..20");
         }
         
-        if (n ==0 || n == 1) {
+        if (n == 0 || n == 1) {
             return 1;
         }
         
-        for (int i = 1; i <= n; i++) {
-            product *= i;
-        }
+//        for (int i = 1; i <= n; i++) {
+//            product *= i;
+//        }
         
-        return product;
+        return n * getFactoial(n - 1); //Đệ quy
     }
 }
